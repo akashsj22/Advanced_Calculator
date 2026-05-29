@@ -1,2 +1,2 @@
-# Scientific_Calculator
-A modern scientific calculator built using HTML, CSS, and JavaScript.
+# Advanced_Calculator
+A modern Advanced_Calculator built using HTML, CSS, and JavaScript.
